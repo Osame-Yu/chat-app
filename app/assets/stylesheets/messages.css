@@ -85,30 +85,30 @@
   overflow: scroll;
 }
 
-.message-container {
+.message {
   margin-top: 10px;
 }
 
-.message-info {
+.upper-message {
   display: flex;
 }
 
-.messenger-name {
+.messenger-user {
   color: #434a54;
   font-size: 16px;
 }
 
-.send-date {
+.message-date {
   margin-left: 10px;
   color: #999;
   font-size: 12px;
 }
 
-.lower-message-info {
+.lower-message {
   margin-top: 10px;
 }
 
-.message {
+.message-content {
   color: #434a54;
   font-size: 14px;
   margin-bottom: 40px; 
